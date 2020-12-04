@@ -1,3 +1,3 @@
-module github.com/cjatcq/test.git
+module github.com/cjatcq/test
 
 go 1.14
